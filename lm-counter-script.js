@@ -1,7 +1,3 @@
-console.log("test");
-console.log("test");
-console.log("test");
-
 function LMCounter(
   startNumber,
   goalNumber,
